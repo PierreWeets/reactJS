@@ -1,0 +1,18 @@
+.FancyBorder {
+  padding: 10px 10px;
+  border: 10px solid;
+}
+
+.FancyBorder-blue {
+  border-color: blue;
+}
+
+.Dialog-title {
+  margin: 10 px;
+  font-family: sans-serif;
+  }
+
+.Dialog-message {
+  font-size: larger;
+  background-color: coral;
+}
